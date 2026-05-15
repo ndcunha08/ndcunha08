@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Nicholas Dcunha 👋
 
-<!--
-**ndcunha08/ndcunha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity & IT Professional
 
-Here are some ideas to get you started:
+Cybersecurity graduate from Lambton College with hands-on experience in penetration testing, network security, incident response, vulnerability assessment, and IT support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+### Security Tools
+- Nmap
+- Wireshark
+- Metasploit
+- Hydra
+- John the Ripper
+- Snort IDS
+- Burp Suite
+
+### Operating Systems
+- Kali Linux
+- Ubuntu Server
+- Windows 10/11
+- Windows Server
+
+### Networking & Security
+- TCP/IP
+- DNS
+- DHCP
+- Firewall Configuration
+- VPN
+- Network Scanning
+- System Hardening
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| WordPress Penetration Testing Lab | Full penetration testing lab using Kali Linux |
+| FTP to SFTP Migration | Secured insecure FTP infrastructure |
+| Snort IDS Lab | Network intrusion detection setup |
+| MedLife Security Capstone | Enterprise healthcare security implementation |
+| Network Enumeration Lab | Nmap scanning and reconnaissance |
+
+---
+
+## Certifications
+- CompTIA Security+ (In Progress)
+
+---
+
+## Currently Learning
+- SOC Operations
+- SIEM Platforms
+- Threat Detection
+- Cloud Security Fundamentals
+
+---
+
+## Contact
+- GitHub: https://github.com/ndcunha08
+- LinkedIn: https://www.linkedin.com/in/nicholas-dcunha-b3749231b/
